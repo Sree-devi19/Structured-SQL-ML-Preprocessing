@@ -72,8 +72,8 @@ This project demonstrates how SQL can be used to preprocess structured data befo
 Structured-SQL-ML-Preprocessing/
 │
 ├── final_data.csv                   ← Preprocessed dataset
-├── heart_disease_model.ipynb        ← Jupyter notebook (or .py script)
+├── heart_disease_model.ipynb        ← Google Colab
 ├── sql_queries.sql                  ← Optional: your SQL queries
 ├── README.md                        ← Full project description
-└── requirements.txt                 ← (Optional) packages used
+└── requirements.txt                 ← packages used
 
